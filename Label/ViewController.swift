@@ -3,7 +3,7 @@
 //  Label
 //
 //  Created by kamalraj on 08/05/17.
-//  Copyright © 2017 kamalraj. All rights reserved.
+//  Copyright © 2017 kamalraj. All rights reserved....
 //
 
 import UIKit
