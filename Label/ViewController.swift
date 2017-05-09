@@ -4,7 +4,7 @@
 //
 //  Created by kamalraj on 08/05/17.
 //  Copyright © 2017 kamalraj. All rights reserved.
-//
+//  Source code avaiable in GITHUB
 
 import UIKit
 
